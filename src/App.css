@@ -1,0 +1,93 @@
+.App {
+  text-align: center;
+}
+
+
+.Social-logo{
+  width: 5vw;
+  height : 5vw;
+}
+
+.Background-photo{
+  width:96vw;
+  top: 0;
+  left: 0;
+
+}
+
+.Mobile-background{
+  height:100vh;
+  border: none;
+  overflow: hidden;
+  position:absolute;
+  left: 0vw;
+  top : 0vh;
+  z-index:1;
+  margin-left:0px;
+}
+
+.Mobile-darkness{
+  height:100vh;
+  width:100vw;
+  border: none;
+  overflow: hidden;
+  position:absolute;
+  left: 0vw;
+  top : 0vh;
+  z-index:2;
+}
+
+
+.Mobile-logo-panel{
+  position:absolute;
+  z-index:3;
+  top: 25vh;
+  left: 10vw;
+}
+
+.Mobile-text{
+  position:absolute;
+  z-index:4;
+  left:23vw;
+  top:17vh;
+  text-align: center;
+  font-size: 8vw;
+}
+
+.Mobile-Social-Logo{
+  width: 10vw;
+  height : 10vw;
+  padding: 3vw;
+}
+
+
+
+.Mobile-social-container{
+  position:relative;
+  z-index:4; 
+  left:23vw;
+  top:35vh;
+  text-align: center; 
+  display: inline-block !important;
+  
+}
+
+
+.Mobile-darkness-block{
+  width: 80vw;
+  height : 60vh;
+  position:absolute;
+  z-index:3;
+}
+
+.Fiwee-logo{
+  position: absolute;
+  overflow: hidden;
+  width: 50vw;
+  top: 0;
+  right: 0vw;
+  z-index: 3;
+}
+
+
+
