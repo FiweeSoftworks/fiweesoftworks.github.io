@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/Desktop.css"],"names":[],"mappings":"AAAA,KACI,qBAAuB,CACvB,UAAW,CACX,gDACF,CAEA,KACE,iBACF","file":"3.4680f152.chunk.css","sourcesContent":["body {\n    background-color: black;\n    color:white;\n    font-family: Futura,Trebuchet MS,Arial,sans-serif;\n  }\n  \n  span{\n    padding-left: 15px;\n  }"]}
