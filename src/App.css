@@ -17,6 +17,7 @@
 
 .Mobile-background{
   height:100vh;
+  min-width:100vw;
   border: none;
   overflow: hidden;
   position:absolute;

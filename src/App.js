@@ -9,10 +9,10 @@ import {mobilePage} from "./pages/mobilePage"
 function App() {
 
 
-  if(!isMobileOnly){
-    import("./Desktop.css")
-    return browserPage("./Desktop.css")
-  }
+  // if(!isMobileOnly){
+  //   import("./Desktop.css")
+  //   return browserPage("./Desktop.css")
+  // }
   import("./Mobile.css")
   return mobilePage("./Mobile.css")
 
